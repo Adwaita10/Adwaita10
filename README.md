@@ -1,4 +1,4 @@
-# Hi there 👋    I am Adwaita
+<h1 align = "center"> Hi there 👋    I am Adwaita </h1>
 
 <!-- 
 - 🔭 I’m currently working on ...
