@@ -45,6 +45,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-2c5080?style=for-the-badge&logo=tableau&logoColor=%23F05033)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-white.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 
 
