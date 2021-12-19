@@ -40,7 +40,7 @@
 
 
 
-<h3 align="left">⚙️ Tools</h3>
+###⚙️ Tools
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-2c5080?style=for-the-badge&logo=tableau&logoColor=%23F05033)
@@ -56,6 +56,10 @@
 _______
 
 ## 📈 Stats
+
+
+-
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adwaita-patil&show_icons=true&theme=tokyonight" />
