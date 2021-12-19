@@ -40,7 +40,7 @@
 
 
 
-###⚙️ Tools
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-2c5080?style=for-the-badge&logo=tableau&logoColor=%23F05033)
