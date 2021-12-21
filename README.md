@@ -1,5 +1,7 @@
 <h1 align = "center"> Hi there 👋    I am Adwaita </h1>
 
+a third year undergraduate student from 🇮🇳 I'm an open-source advocate, a learner, a quantum computing and deep learning enthusiast📕I'm passionate about software development & innovations. I believe in learning with the community.
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,10 +11,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://github.com/adwaita-patil/adwaita-patil/blob/master/images/header.gif" alt="header"/>
-</div>
+</div>-->
 
 ## Tech I am familiar with:
 ### Languages: 
