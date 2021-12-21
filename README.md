@@ -20,13 +20,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<!---![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)--->
 
 ### Database:
 
 ![SQLite](https://img.shields.io/badge/-SQLite-d7a9e3?style=for-the-badge&logo=sqlite&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-97bc62?style=for-the-badge&logo=mongodb)
+<!---![MongoDB](https://img.shields.io/badge/-MongoDB-97bc62?style=for-the-badge&logo=mongodb)--->
 
 ### Libraries and Frameworks:
 
@@ -35,8 +35,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-cbce91?style=for-the-badge&logo=bootstrap)
+<!---![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-cbce91?style=for-the-badge&logo=bootstrap)--->
 
 
 
